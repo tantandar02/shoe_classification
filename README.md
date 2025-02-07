@@ -1,1 +1,1 @@
-# shoe_classification
+This project involved developing a deep learning model in TensorFlow and Keras within Jupyter Notebook to classify shoe images into Adidas, Nike, and Converse categories. The model was fine-tuned from MobileNet to adapt it for the shoe classification task, resulting in high accuracy.
